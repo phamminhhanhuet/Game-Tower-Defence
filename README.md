@@ -1,6 +1,6 @@
 # Game-Tower-Defence
 
-Just a classic game, build tower and try your best to defeat all cruel monsters!!!
+Just a classic game, build towers and try your best to defeat all cruel monsters!!!
 
 # Author
 
