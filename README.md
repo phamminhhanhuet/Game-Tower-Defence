@@ -1,4 +1,4 @@
-# Game-Tower-Defency
+# Game-Tower-Defence
 
 Just a classic game, build tower and try your best to defeat all cruel monsters!!!
 
