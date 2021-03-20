@@ -11,4 +11,4 @@ Just a classic game, build tower and try your best to defeat all cruel monsters!
 # Gameplay + Trailer
 
 
-[![Watch the video](https://gifs.com/gif/game-tower-defence-gZBQnD)](https://youtu.be/TPEgqmaj3IU)
+[![Watch the video](https://j.gifs.com/gZBQnD.gif)](https://youtu.be/TPEgqmaj3IU)
