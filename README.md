@@ -1,5 +1,7 @@
 # Game-Tower-Defency
 
+Just a classic game, build tower and try your best to defeat all cruel monsters!!!
+
 # Author
 
 - Pham Minh Hanh
@@ -9,4 +11,4 @@
 # Gameplay + Trailer
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/TPEgqmaj3IU)
+[![Watch the video](https://gifs.com/gif/game-tower-defence-gZBQnD)](https://youtu.be/TPEgqmaj3IU)
